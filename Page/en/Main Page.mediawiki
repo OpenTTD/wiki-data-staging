@@ -2,5 +2,5 @@ Welcome to the test wiki for TrueWiki!
 
 Please feel welcome!
 
-[[More info]]
-[[What is this]]
+[[en/More info]]
+[[en/What is this]]
