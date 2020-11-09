@@ -1,4 +1,4 @@
-NOTE: this wiki is deployed on staging, meaning it is meant to test out new functionality. Please do not use it for production data; it is likely this will be wiped clean on a regular intervals.
+NOTE: this wiki is deployed on staging, meaning it is meant to test out new functionality. Please do not use it for production data; it is likely this will be wiped clean without warning.
 
 Welcome to the test wiki for TrueWiki!
 
