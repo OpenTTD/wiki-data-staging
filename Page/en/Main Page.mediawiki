@@ -1,8 +1,9 @@
 NOTE: this wiki is deployed on staging, meaning it is meant to test out new functionality. Please do not use it for production data; it is likely this will be wiped clean without warning.
 
+[[File:{{PAGENAME}}.png|left|middle]]
 Welcome to the test wiki for TrueWiki!
 
 Please feel welcome!
-
+<br clear=all> 
 * [[en/More info]]
 * [[en/What is this]]
