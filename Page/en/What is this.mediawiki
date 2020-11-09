@@ -7,3 +7,7 @@ As example, setting both "none" and "left" on an image will return an error (alt
 [[File:en/MyImage.png|none|left]]
 
 This causes a "badge" on the top right indicating there is an error on this page.
+
+Similar things happen when you try to set a caption twice, as example:
+
+[[File:en/MyImage2.png|bla|bla]]
