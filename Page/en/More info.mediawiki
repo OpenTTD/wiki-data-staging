@@ -5,4 +5,4 @@ I know, it is rather empty. We should fix this!
 
 I will add my 2 cents, just to test
 
-[[File:MoreInfo.png]]
+[[File: en/MoreInfo.png]]
