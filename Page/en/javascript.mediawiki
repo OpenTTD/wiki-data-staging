@@ -2,3 +2,4 @@
 [javascript:alert("yolo"); yolo]
 [/javascript:alert("yolo"); yolo]
 [[:javascript:alert("yolo");|yolo]]
+{{y'o"l)o}}
