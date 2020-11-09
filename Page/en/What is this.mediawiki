@@ -1,0 +1,7 @@
+This is an opinionated wiki implementation with wikitext as source.
+
+Wikitext is a standard defined by what-ever mediawiki implements. As such, we implement only a subset of wikitext. The subset we implement is heavily opinionated and forces the wiki writer to be more consistent and more easily rejects broken syntax.
+
+As example, setting both "none" and "left" on an image will return an error (although it does save).
+
+[[File:en/MyImage.png|none|left]]
