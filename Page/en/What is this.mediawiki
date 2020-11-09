@@ -5,3 +5,5 @@ Wikitext is a standard defined by what-ever mediawiki implements. As such, we im
 As example, setting both "none" and "left" on an image will return an error (although it does save).
 
 [[File:en/MyImage.png|none|left]]
+
+This causes a "badge" on the top right indicating there is an error on this page.
