@@ -1,0 +1,8 @@
+Pages here:
+[[Category/en/Aweful/and/awsome pages]]
+[[:Category/en/Aweful/and/awsome pages]]
+{{Category/en/Aweful/and/awsome pages}}
+
+[[Category:en/Aweful/and/awsome pages]]
+[[:Category:en/Aweful/and/awsome pages]]
+{{Category:en/Aweful/and/awsome pages}}
