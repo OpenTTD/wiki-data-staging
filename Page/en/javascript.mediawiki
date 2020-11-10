@@ -4,3 +4,5 @@
 [[:javascript:alert("yolo");|yolo]]
 {{y'o"l)o}}
 {{en/y'o"l)o}}
+
+<span onclick="alert('yolo')">Click me</span>
