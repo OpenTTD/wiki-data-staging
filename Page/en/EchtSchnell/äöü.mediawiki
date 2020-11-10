@@ -1,4 +1,4 @@
 [[Translation:Main Page]]
 
 <noinclude>[[Category:Aweful and awsome pages]]</noinclude>
-<noinclude>[[Category:en/Aweful and awsome pages]]</noinclude>
+<noinclude>[[Category:en/Aweful/and/awsome pages]]</noinclude>
