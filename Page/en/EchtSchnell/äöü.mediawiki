@@ -2,3 +2,15 @@
 
 <noinclude>[[Category:Aweful and awsome pages]]</noinclude>
 <noinclude>[[Category:en/Aweful/and/awsome pages]]</noinclude>
+
+[[File:en/MyImage.png]]
+
+[[Image:en/MyImage.png]]
+
+[[Media:en/MyImage.png]]
+
+[[:File:en/MyImage.png]]
+
+[[:Image:en/MyImage.png]]
+
+[[:Media:en/MyImage.png]]
