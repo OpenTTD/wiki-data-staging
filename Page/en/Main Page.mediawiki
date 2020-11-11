@@ -10,4 +10,4 @@ Please feel welcome!
 * [[en/What is this]]
 * [[en/javascript]]
 
-Some more testing!
+Some more testing! Speedy saves \o/
