@@ -11,3 +11,5 @@ Please feel welcome!
 * [[en/javascript]]
 
 Some more testing! Speedy saves \o/
+
+[https://www.openttd.org] <- look, our main page!
