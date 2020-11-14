@@ -13,3 +13,5 @@ Please feel welcome!
 Some more testing! Speedy saves \o/
 
 [https://www.openttd.org www.openttd.org] <- look, our main page!
+
+[[:Folder:Page/en|test]]
