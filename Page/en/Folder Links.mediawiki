@@ -1,0 +1,13 @@
+{|
+|-
+! !! No title !! No whitespace !! With whitespace
+|-
+| No :, no / || [[Folder:Page/en]] || [[Folder:Page/en|english pages]] || [[Folder:Page/en | english pages]]
+|-
+| No :, with / || [[Folder:Page/en/]] || [[Folder:Page/en/|english pages]] || [[Folder:Page/en/ | english pages]]
+|-
+| With :, no / || [[:Folder:Page/en]] || [[:Folder:Page/en|english pages]] || [[:Folder:Page/en | english pages]]
+|-
+| With :, with / || [[:Folder:Page/en/]] || [[:Folder:Page/en/|english pages]] || [[:Folder:Page/en/ | english pages]]
+|-
+|}
