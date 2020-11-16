@@ -1,13 +1,17 @@
-&
+& <
 
-&amp;
+&amp; &lt;
 
 * &
 * &amp;
+* <
+* &lt;
 
 {|
 |-
 | & || &amp;
+|-
+| < || &lt;
 |-
 |}
 
@@ -15,27 +19,49 @@
 
 [[&amp;]]
 
+[[en/<]]
+
+[[en/&lt;]]
+
 [[en/Main Page|&]]
 
 [[en/Main Page|&amp;]]
+
+[[en/Main Page|<]]
+
+[[en/Main Page|&lt;]]
 
 [http://&]
 
 [http://&amp;]
 
+[http://<]
+
+[http://&lt;]
+
 [http://example.com &]
 
 [http://example.com &amp;]
 
+[http://example.com <]
+
+[http://example.com &lt;]
+
  &
  &amp;
+ <
+ &lt;
 
 <pre>
  &
  &amp;
+ <
+ &lt;
 </pre>
 
 <nowiki>
 &
 &amp;
+<
+&lt;
 </nowiki>
