@@ -1,6 +1,6 @@
-& < '
+& < ' "
 
-&amp; &lt; &#39;
+&amp; &lt; &#39; &quot;
 
 * &
 * &amp;
@@ -8,6 +8,8 @@
 * &lt;
 * '
 * &#39;
+* "
+* &quot;
 
 {|
 |-
@@ -16,6 +18,8 @@
 | < || &lt;
 |-
 | ' || &#39;
+|-
+| " || &quot;
 |-
 |}
 
@@ -31,6 +35,10 @@
 
 [[en/&#39;]]
 
+[[en/"]]
+
+[[en/&quot;]]
+
 [[en/Main Page|&]]
 
 [[en/Main Page|&amp;]]
@@ -42,6 +50,10 @@
 [[en/Main Page|']]
 
 [[en/Main Page|&#39;]]
+
+[[en/Main Page|"]]
+
+[[en/Main Page|&quot;]]
 
 [http://&]
 
@@ -55,6 +67,10 @@
 
 [http://&#39;]
 
+[http://"]
+
+[http://&quot;]
+
 [http://example.com &]
 
 [http://example.com &amp;]
@@ -67,12 +83,18 @@
 
 [http://example.com &#39;]
 
+[http://example.com "]
+
+[http://example.com &quot;]
+
  &
  &amp;
  <
  &lt;
  '
  &#39;
+ "
+ &quot;
 
 <pre>
  &
@@ -81,6 +103,8 @@
  &lt;
  '
  &#39;
+ "
+ &quot;
 </pre>
 
 <nowiki>
@@ -90,4 +114,6 @@
 &lt;
 '
 &#39;
+"
+&quot;
 </nowiki>
