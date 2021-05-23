@@ -32,6 +32,17 @@ h5, .h5 {
 	margin: 0px;
 }
 
+#navigation-bar li a:focus, #navigation-bar li a:hover {
+	background: linear-gradient(#C4C4C4, #A5A5A5);
+	color: #444444;
+}
+#navigation-bar li.selected {
+	background: linear-gradient(#FCD085, #FFB23F);
+}
+#navigation-bar li.selected a {
+	color: #444444;
+}
+
 .nowrap {
 	overflow: hidden;
 	white-space: nowrap;
