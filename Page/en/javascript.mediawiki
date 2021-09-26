@@ -1,3 +1,5 @@
+This page is to test we escape everything correctly. None of this should work, of course ;)
+
 [[javascript:alert("yolo");|yolo]]
 [javascript:alert("yolo"); yolo]
 [/javascript:alert("yolo"); yolo]
