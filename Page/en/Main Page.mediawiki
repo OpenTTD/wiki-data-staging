@@ -17,3 +17,5 @@ You can now even leave a summary of your edit; awesome sauce!
 [https://www.openttd.org www.openttd.org] <- look, our main page!
 
 [[:Folder:Page/en|test]]
+
+A new day a new edit!
