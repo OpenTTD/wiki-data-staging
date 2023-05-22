@@ -19,5 +19,3 @@ You can now even leave a summary of your edit; awesome sauce!
 [[:Folder:Page/en|test]]
 
 A new day a new edit!
-
-Another edit!
