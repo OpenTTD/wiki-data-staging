@@ -14,6 +14,6 @@ Some more testing! Speedy saves \o/
 
 You can now even leave a summary of your edit; awesome sauce!
 
-[https://www.openttd.org www.openttd.org] <- look, our main page!
+[https://www.openttd.org www.openttd.org] <- look, our main page! Cool, not? :)
 
 [[:Folder:Page/en|test]]
